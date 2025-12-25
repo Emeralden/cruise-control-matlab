@@ -18,7 +18,7 @@ This project simulates a basic cruise control system using MATLAB and models the
 
 
 
-##### \## Results
+##### Results
 
 \- Quick rise time
 
