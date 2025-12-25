@@ -1,4 +1,4 @@
-### \# Cruise Control System
+### Cruise Control System
 
 
 
@@ -6,7 +6,7 @@ This project simulates a basic cruise control system using MATLAB and models the
 
 
 
-##### \## Features
+##### Features
 
 \- Open-loop and closed-loop analysis
 
@@ -28,7 +28,7 @@ This project simulates a basic cruise control system using MATLAB and models the
 
 
 
-##### \## Tech Used
+##### Tech Used
 
 \- MATLAB
 
@@ -40,7 +40,7 @@ This project simulates a basic cruise control system using MATLAB and models the
 
 
 
-##### \## Files
+##### Files
 
 \- `/Code`: MATLAB source files
 
